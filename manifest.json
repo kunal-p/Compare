@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
     "name": "Compare",
-    "description": "Visually diff 2 webpages",
+    "description": "Visually diff 2 webpages.",
     "version": "1.0",
-    "homepage_url": "http://google.com",
+    "homepage_url": "https://github.com/kunal-p/Compare",
     "icons": { "16": "icon16.png",
            "48": "icon48.png",
           "128": "icon128.png" },
